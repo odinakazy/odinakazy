@@ -10,4 +10,13 @@ Result-oriented software developer with experience designing and building effici
 🤝  I'm open to collaboration  
 
 ### 🛠️ Skills  
-JavaScript • ReactJs • TypeScript • NodeJs • NextJs • Git • Linux • Problem Solving • Debugging
+<img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript" width="40"/>
+<img src="https://img.shields.io/badge/-ReactJs-000?logo=react" width="40"/>
+<img src="https://img.shields.io/badge/-TypeScript-000?logo=typescript" width="40"/>
+<img src="https://img.shields.io/badge/-NodeJs-000?logo=node.js" width="40"/>
+<img src="https://img.shields.io/badge/-NextJs-000?logo=next.js" width="40"/>
+<img src="https://img.shields.io/badge/-Git-000?logo=git" width="40"/>
+<img src="https://img.shields.io/badge/-Linux-000?logo=linux" width="40"/>
+<img src="https://img.shields.io/badge/-Problem_Solving-000?logo=hackerrank" width="40"/>
+<img src="https://img.shields.io/badge/-Debugging-000?logo=visual-studio-code" width="40"/>
+
