@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Odinaka Solomon
 
-<!--
-**odinakazy/odinakazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer Focused on Solutions
 
-Here are some ideas to get you started:
+Result-oriented software developer with experience designing and building efficient and user-friendly applications. Skilled in JavaScript, Reactjs, Nextjs, Typescript and nodejs, with hands-on experience from ALX Software Engineering projects. Passionate about problem-solving, writing clean code, and continuously improving my technical abilities. A proactive team player with strong communication skills and a commitment to learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Lagos, Nigeria  
+🚀  I'm currently open to work  
+🧠  I'm currently learning advanced full-stack engineering  
+🤝  I'm open to collaboration  
+
+### 🛠️ Skills  
+JavaScript • ReactJs • TypeScript • NodeJs • NextJs • Git • Linux • Problem Solving • Debugging
